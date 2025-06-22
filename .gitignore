@@ -1,0 +1,7 @@
+# Ignores all the files in my virtual environment folder to avoid pushing 
+# large package files
+.venv/
+
+# Ignores all files ending in CSV (this can be good for large datasets)
+*.csv
+
